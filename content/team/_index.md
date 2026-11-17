@@ -2,11 +2,11 @@
 
 - ![](https://www.slds.stat.uni-muenchen.de/images/bernd.jpg) [Bernd Bischl](https://www.slds.statistik.uni-muenchen.de/people/bischl/)
   wrote the initial version of most of the course material and actively develops and extends the material. At the LMU, he often teaches the latter parts of the material, so the "Supervised Learning" and "Advanced Machine Learning" lectures.
-- ![](https://www.slds.stat.uni-muenchen.de/images/ludwig.jpg) [Ludwig Bothmann](https://www.slds.statistik.uni-muenchen.de/people/bothmann/)
+- ![](https://www.slds.stat.uni-muenchen.de/images/ludwig_2.jpeg) [Ludwig Bothmann](https://www.slds.statistik.uni-muenchen.de/people/bothmann/)
   joined the team in summer 2020 and actively develops and extends the material. At the LMU, he often teaches "Introduction to Machine Learning" and "Supervised Learning".
 - ![](https://www.slds.stat.uni-muenchen.de/images/giuseppe.jpg) [Giuseppe Casalicchio](https://www.slds.statistik.uni-muenchen.de/people/casalicchio/)
   contributed to some chapters of the initial version (before 2020) and rejoined the team in 2024, where he actively develops and extends the material. At the LMU, he often teaches "Introduction to Machine Learning", "Advanced Machine Learning", and "Applied Machine Learning".
-- ![](https://www.slds.stat.uni-muenchen.de/images/tobias_pielok.jpg) [Tobias Pielok](https://tpielok.github.io/)
+- ![](https://tpielok.github.io/images/me.jpg) [Tobias Pielok](https://tpielok.github.io/)
   was a PhD student in Bernd’s group and contributed to the slides, code demos and exercises. He rejoined the team to teach the course "Introduction to Machine Learning" in the summer semester 2026.
 - ![](https://www.slds.stat.uni-muenchen.de/images/yawei_li.JPG) [Yawei Li](https://www.slds.stat.uni-muenchen.de/people/li/)
   is a PhD student in Bernd's group and contributed to the slides and exercises of AdvML.
